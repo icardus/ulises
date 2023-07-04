@@ -1,0 +1,15 @@
+---
+title: Patrick Modiano. Identitat, literatura i memòria
+description: Nota de lectura sobre l'obra Carrer de les Botigues Fosques, de Patrick Modiano"
+---
+"No sóc res”. Així comença la història de Guy Rolland, Howard de Luz, Pedro McEvoy … O qualsevol que sigui la identitat del protagonista de la novel.la Carrer de les Botigues Fosques, escrita per Patrick Modiano i publicada en català per Edicions 62.
+
+Després d’un accident, aquest difús protagonista pateix un estat d’amnèsia total que l’obliga a viure amb una identitat de recanvi sota el nom de Guy Rolland. La jubilació del soci i fundador de l’agència d’investigació privada on treballa serà el punt de partida d’un ambiciós projecte personal, potser el més important de la seva vida.
+
+Premi Goncourt l’any de la seva publicació (1978), Carrer de les Botigues Fosques és una novel·la sobre la pèrdua d’identitat i sobre la impossibilitat de la seva reconstrucció completa. Escrita amb un estil sobri i aparentment lleuger, la seva lectura és àgil en part per l’abundància de diàl.legs breus i, especialment, concisos. Mitjançant un to i un ritme propis de la novel·la negra, amb una capacitat singular de mantenir el suspens del relat, la història avança en el puzle de la memòria i el record, pista rere pista, personatge rere personatge, i malgrat una notable acumulació de rastres i sospites l’assimilació global del relat és accessible a un públic ampli.
+
+En totes les obres de l’escriptor francès d’ascendència italiana, planeja el misteri, la memòria, la fragilitat, la incertesa i, fins i tot, una certa boira sembla diluir el dibuix del relat i el contorn dels protagonistes. Els personatges, els espais i determinats objectes ens semblen tan misteriosos com fascinants en la mesura que ens resulten estranyament familiars. Modiano modula les percepciones del lector a uns nivells espectrals inquietants. La necessitat de Guy Rolland de viure amb una identitat real deriva en una lògica obsessió per recuperar-la i, al seu torn, aquesta inquietud es reflecteix en determinades manies, com ara la d’anotar sistemàticament qualsevol carrer i direcció de la ciutat.
+
+París és l’altre gran protagonista d’aquesta història. El París de Modiano és un territori oníric i estrany; a mig camí entre el real i l’irreal; un París atemporal, somiat. I aquest territori “modianesc”, el mateix pel qual passeja Guy, és pròpiament un estat d’ànim i, en certa forma, tal com ha manifestat l’editor Jorge Herralde, tota una manera d’entendre la literatura.
+
+Carrer de les Botigues Fosques és una novel·la genuïna del segle XX. D’una banda, el caràcter marcadament fragmentari del relat, construït, com hem esmentat, a partir del record impressionista i incomplet de la memòria humana. I, d’altra banda, la trama articulada al voltant de dos dels grans temes narratius del segle passat: la identitat i la memòria. Qui sap si, per aquest motiu, “No sóc res”, l’expressió amb la qual hem iniciat aquest petit comentari de text, pugui resultar, avui, tan inquietant com familiar a molts dels seus lectors.

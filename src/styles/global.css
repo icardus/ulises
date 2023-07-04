@@ -271,6 +271,7 @@ input[name='theme-toggle'] {
 /*H2 SENSE SUBRATLLAT*/
 a.astro-T32VFCJF {
   text-decoration: none;
+  color:#e2c27d;
 }
 
 .home_h1 {
@@ -294,14 +295,21 @@ a.astro-T32VFCJF {
   
 }
 
+/*BLOCKQUOTE HOMEPAGE*/
 .cita_home {
   text-align: center;
   font-size:17px;
   font-weight: lighter !important;
   color:#e2c27d;
+}
+
+@media (min-width: 600px) {
+.cita_home {
   margin-right:7em;
   margin-left:7em;
 }
+}
+
 
 .materlinck {
   color:#cccccc !important;
